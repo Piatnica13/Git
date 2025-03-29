@@ -1,2 +1,4 @@
 Omg
 second str
+третья
+last
